@@ -1,11 +1,11 @@
 .section-subtitle_theme_dark {
-    position: relative;
-    margin: 20px auto 0;
-    padding: 0;
-    text-align: center;
-    width: 60%;
-    line-height: 34px;
-    font-size: 24px;
-    font-weight: normal;
-    z-index: 2;
-  }
+  position: relative;
+  margin: 20px auto 0;
+  padding: 0;
+  text-align: center;
+  width: 60%;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  z-index: 2;
+}
